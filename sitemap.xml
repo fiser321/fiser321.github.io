@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fiser321.github.io/about/</loc>
+    <lastmod>2017-10-08T18:19:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fiser321.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://fiser321.github.io/categories/github-pages/</loc>
+    <lastmod>2017-10-08T18:19:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fiser321.github.io/</loc>
+    <lastmod>2017-10-08T18:19:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
