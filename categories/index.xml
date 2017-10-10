@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on aitimeout</title>
     <link>https://fiser321.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on aitimeout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,11 +11,20 @@
     
     
     <item>
-      <title>Github Pages</title>
-      <link>https://fiser321.github.io/categories/github-pages/</link>
-      <pubDate>Sun, 08 Oct 2017 18:19:54 +0800</pubDate>
+      <title>Development</title>
+      <link>https://fiser321.github.io/categories/development/</link>
+      <pubDate>Wed, 23 Sep 2015 16:30:37 +0800</pubDate>
       
-      <guid>https://fiser321.github.io/categories/github-pages/</guid>
+      <guid>https://fiser321.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://fiser321.github.io/categories/golang/</link>
+      <pubDate>Wed, 23 Sep 2015 16:30:37 +0800</pubDate>
+      
+      <guid>https://fiser321.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
