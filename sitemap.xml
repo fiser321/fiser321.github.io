@@ -12,6 +12,11 @@
     </url>
     
     <url>
+        <loc>https://fiser321.github.io/2014/09/09/wordpress/</loc>
+        <lastmod>2014-09-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://fiser321.github.io/categories/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
         <priority>0</priority>
@@ -32,6 +37,12 @@
     <url>
         <loc>https://fiser321.github.io/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</loc>
         <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://fiser321.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
+        <lastmod>2014-09-09T00:00:00+00:00</lastmod>
         <priority>0</priority>
     </url>
     
