@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Fiser321 Blog on Fiser321 Blog</title>
+        <title>爱睡懒觉的程序员 on 爱睡懒觉的程序员</title>
         <link>https://fiser321.github.io/feed.xml</link>
         <language>zh-CN</language>
         <author>CoderZh</author>
@@ -63,10 +63,6 @@
 &lt;h4 id=&#34;展望&#34;&gt;展望&lt;/h4&gt;
 
 &lt;p&gt;好的习惯继续发扬，不足要改掉，健身的重要性要提高一个 Level。&lt;/p&gt;
-
-&lt;h4 id=&#34;最后&#34;&gt;最后&lt;/h4&gt;
-
-&lt;p&gt;感谢你们！如此低的更新频率下还没有退订，感谢！Happy 2017!&lt;/p&gt;
 </description>
         </item>
         
@@ -79,37 +75,28 @@
             <description>
 
 &lt;p class=&#34;message&#34;&gt;
-大家好，我叫 CoderZh，是一名程序员。
+大家好，我叫 刘成，是一名程序员。
 &lt;/p&gt;
 
 &lt;h3 id=&#34;我的经历&#34;&gt;我的经历&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2003-2007 中南大学土木工程系&lt;/li&gt;
-&lt;li&gt;2007-2011 测试开发（SDET 金山软件）。&lt;/li&gt;
-&lt;li&gt;2011-2015 Unity3D 游戏服务端主程、3DMMORPG 端游程序员（创业公司）&lt;/li&gt;
-&lt;li&gt;2015.3.13 - 至今「再小的个体，也有自己的品牌」&lt;/li&gt;
+&lt;li&gt;2010-2014 南阳理工 软件&lt;/li&gt;
+&lt;li&gt;2014-至今 北京从事运维相关工作&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;我的技能&#34;&gt;我的技能&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;编程语言：C++, C#, Python, Lua。钟爱 Python，捣鼓 Go……&lt;/li&gt;
-&lt;li&gt;网站开发：略懂前端，常常瞎折腾 css+js，喜欢后端，通常使用 Tornado。&lt;/li&gt;
-&lt;li&gt;熟悉 Cocos2d-X 游戏开发。&lt;/li&gt;
-&lt;li&gt;Unity3D 打打酱油。&lt;/li&gt;
-&lt;li&gt;网游服务端开发有一定的经验。&lt;/li&gt;
-&lt;li&gt;会一点 Android 开发。&lt;/li&gt;
-&lt;li&gt;测试开发&lt;/li&gt;
+&lt;li&gt;编程语言：Python/Go, C/C++&lt;/li&gt;
+&lt;li&gt;技能：运维架构，docker, kubernetes, tensorflow, deeplearning&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;生活中的我&#34;&gt;生活中的我&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;喜欢玩游戏：LOL，FIFA，及各种虐心小游戏。喜欢挑战。&lt;/li&gt;
-&lt;li&gt;乒乓球打的还行。&lt;/li&gt;
-&lt;li&gt;喜欢看有内涵的电影及美剧，偶尔也陪老妈看国产家庭连续剧。&lt;/li&gt;
-&lt;li&gt;喜欢思考，对未知世界保持好奇心。&lt;/li&gt;
+&lt;li&gt;喜欢玩游戏：Dota,智力游戏。&lt;/li&gt;
+&lt;li&gt;乒乓球，台球打的还行。&lt;/li&gt;
 &lt;li&gt;有点宅。&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -123,83 +110,12 @@
 &lt;h3 id=&#34;一些链接&#34;&gt;一些链接&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;我的独立博客：&lt;a href=&#34;http://blog.coderzh.com&#34;&gt;blog.coderzh.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;博客园博客：&lt;a href=&#34;http://coderzh.cnblogs.com&#34;&gt;coderzh.cnblogs.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;新浪微博：&lt;a href=&#34;http://weibo.com/coderzh&#34;&gt;weibo.com/coderzh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Twitter：&lt;a href=&#34;https://twitter.com/coderzh&#34;&gt;twitter.com/coderzh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Github: &lt;a href=&#34;https://github.com/coderzh&#34;&gt;github.com/coderzh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Email：coderzh@qq.com(pythonzh@gmail.com)&lt;/li&gt;
-&lt;li&gt;微信公众号：hacker-thinking&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;我的独立博客：&lt;a href=&#34;https://fiser321.github.io&#34;&gt;fiser321.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: [github.com/fiser321]()&lt;/li&gt;
+&lt;li&gt;Email：ac_geezer@163.com(ac_geezer@163.com)&lt;/li&gt;
+&lt;li&gt;微信公众号：fisher321&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&#34;声明&#34;&gt;声明&lt;/h3&gt;
-
-&lt;p&gt;本博客所有文章皆为原创。转载请注明原文链接，并最好与本人联系。谢谢！&lt;/p&gt;
 </description>
-        </item>
-        
-        <item>
-            <title>如何看待：微软将以25亿美元收购Minecraft开发商Mojang</title>
-            <link>https://fiser321.github.io/2014/09/10/mincraft/</link>
-            <pubDate>Wed, 10 Sep 2014 00:00:00 UTC</pubDate>
-            <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2014/09/10/mincraft/</guid>
-            <description>&lt;h3 id=&#34;背景&#34;&gt;背景&lt;/h3&gt;
-
-&lt;p&gt;相信很多人已经玩过《Minecraft》，这是一款3D沙盒游戏，玩家通过采集不同的材料，使用不同的公式合成各种其他材料。然后像搭积木一般将这些方块状的材料搭建出各种木屋，城堡，宏伟的建筑，并且可以加入脚本，设计各种关卡玩法，可谓自由度极高。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Minecraft最初是一款独立游戏，是由瑞典人马库斯·佩尔松（Notch）单独开发的，后成立公司Mojang AB。2009年5月17日发布第一个测试版，直到在2013年6月，这款游戏已经卖出 1100 万套，去年Mojang AB净利润超过了 1 亿美元。马库斯·佩尔松成了独立开发者的偶像，他坚持保持40人小团队，并且拒绝风险投资。更有趣的是，他一直是微软的抨击者，称Windows 8操作系统“可能非常不利于独立游戏”。&lt;/p&gt;
-
-&lt;p&gt;然而，面对微软的25亿美金，马库斯·佩尔松最终还是打算将公司出售。不管出于什么目的，至少Minecraft的价值通过这次收购得到了充分的肯定。&lt;/p&gt;
-
-&lt;p&gt;本人也是游戏开发从业人员，也经常和别人讨论游戏设计相关的内容。通过这次Minecraft的收购，让我再回头思考以下几个问题。&lt;/p&gt;
-
-&lt;h3 id=&#34;独立游戏-vs-团队开发游戏&#34;&gt;独立游戏 VS 团队开发游戏&lt;/h3&gt;
-
-&lt;p&gt;有人和我说过：“团队对个人极其重要，脱离了团队，个人的价值无法得到认可。个人的力量是有限的，你去帮助团队成长，你成就了团队，团队才反过来成就你。”&lt;/p&gt;
-
-&lt;p&gt;关于团队的重要性，是无可辩驳的。但是，这个世界并不是单一的。我们肯定了其中一个东西的重要性，但我们也无需去评判另外一个东西是没有价值的。我一直以来，都是对制作独立游戏的人抱有崇敬之情。&lt;/p&gt;
-
-&lt;p&gt;据我了解，独立游戏制作者表面光鲜，其实背后的辛酸、挑战是很多人无法理解的。从《Indie Game 独立游戏大电影》里就可以看出来。制作独立游戏，意味着你要放弃一份稳定的薪水，意味着看似自由支配的工作时间实际上比所谓的996工作制强度更大，意味着你需要掌握更多的技能，意味着你需要承受更大压力去应付更多的挑战。当然，重要的是，换来了对梦想追求的自由，以及可能带来的财务自由。&lt;/p&gt;
-
-&lt;p&gt;独立游戏很多都是有梦想的，独立游戏也不都是单打独斗的，独立游戏是需要勇气和毅力的，独立游戏是值得尊敬和肯定的。&lt;/p&gt;
-
-&lt;h3 id=&#34;自由沙盒游戏-vs-简单无脑游戏&#34;&gt;自由沙盒游戏 VS 简单无脑游戏&lt;/h3&gt;
-
-&lt;p&gt;也有人和我说过:”自由探索的沙盒游戏太小众，现在已经没有市场。像魔兽世界这样在地图上自由探索的游戏已经不适应了，我们需要自动寻路，我们需要傻瓜式的操作，我们要大众化，难度低，我们要让从不玩游戏的妹子也能容易上手。”&lt;/p&gt;
-
-&lt;p&gt;我一直都是反对这个观点的。如果按照上面的逻辑推理，Minecraft是永远不会成功的，激战这样的游戏不应该存在，剑灵没有自动寻路是不可接受的。&lt;/p&gt;
-
-&lt;p&gt;探索的心是每个人都有的，只是强烈程度不同。有人认为自由探索式的游戏太小众，目标缺失，难度太高，挫败感太强。他们可以自己不做这样类型的游戏，但他们不应该去否定这样它。通过探索激发了人们心底的探索欲，通过自由的沙盒满足了人们心底的创造欲。一个好玩的游戏，不需要符合所有人的胃口，只需要针对喜欢这种类型游戏的人群，把它做到极致，它就可以很成功。&lt;/p&gt;
-
-&lt;h3 id=&#34;总结&#34;&gt;总结&lt;/h3&gt;
-
-&lt;p&gt;独立游戏很有前途。尽管做自己喜欢的游戏吧，即使别人认为很小众。&lt;/p&gt;</description>
-        </item>
-        
-        <item>
-            <title>自豪的使用上了WordPress</title>
-            <link>https://fiser321.github.io/2014/09/09/wordpress/</link>
-            <pubDate>Tue, 09 Sep 2014 00:00:00 UTC</pubDate>
-            <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2014/09/09/wordpress/</guid>
-            <description>&lt;p&gt;自从购买了DigitalOcean的VPS，就一直在上面折腾着。首当其冲的，是把我的博客转移到VPS中来，实现自己的独立博客。开始打算的是一切自己DIY，并且我之前也写过一套博客程序，用Python+Tornado+mongodb实现的。虽然很久没有维护，但还是可用的状态。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;最终，我还是放弃了自己写的NancyBlog(&lt;a href=&#34;http://code.google.com/p/nancyblog/)，而是选择了大名鼎鼎的WordPress，原因如下：&#34;&gt;http://code.google.com/p/nancyblog/)，而是选择了大名鼎鼎的WordPress，原因如下：&lt;/a&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;我只是博客的使用者，应该把博客程序的开发交给更加有经验和经历的人。&lt;/li&gt;
-&lt;li&gt;我自己的博客，要换个皮肤比较自己DIY很久。而WordPress有大量的皮肤，随意你切换。&lt;/li&gt;
-&lt;li&gt;WordPress有大量的插件支持，比如使用MarkDown编写博文。能完全满足我写博客的需求。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;开始我是打算把博客园里的博客导入过来的，毕竟我在博客园写博客已经有7年的时间了，积累了不少的文章。网上搜寻了导入的方法，找到一篇文章：将博客园(cnblogs.com)数据导入到wordpress(&lt;a href=&#34;http://levi.cg.am/archives/163)。我安装插件后导入毫无反应，应该是这个插件太久没有更新了，已经不能解析最新的博客园备份文章了。无奈只好先放一放，之后有时间自己实现个导入功能。当然，新的博客，一切从头开始，也未必不是一件好事。&#34;&gt;http://levi.cg.am/archives/163)。我安装插件后导入毫无反应，应该是这个插件太久没有更新了，已经不能解析最新的博客园备份文章了。无奈只好先放一放，之后有时间自己实现个导入功能。当然，新的博客，一切从头开始，也未必不是一件好事。&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;创业艰难，坚持不易，思考和总结不能停，博文还是得继续。给自己加油吧！&lt;/p&gt;</description>
         </item>
         
         <item>
@@ -251,184 +167,6 @@
 &lt;p&gt;写这篇文章，并不是从程序角度对写过的代码和模块进行总结。而是通过回忆一路走过的创业历程，让自己重新去思考，公司和人员是如何变化的，游戏产品是如何演变的，当然最重要的，是自己的心态和思维方式是如何改变的。&lt;/p&gt;
 
 &lt;p&gt;（未完待续……）&lt;/p&gt;</description>
-        </item>
-        
-        <item>
-            <title>DigitalOcean上使用Tornado&#43;MongoDB&#43;Nginx&#43;Supervisor&#43;DnsPod快速搭建个人博客</title>
-            <link>https://fiser321.github.io/2014/05/19/digitalocean/</link>
-            <pubDate>Mon, 19 May 2014 00:00:00 UTC</pubDate>
-            <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2014/05/19/digitalocean/</guid>
-            <description>&lt;h3 id=&#34;digitalocean&#34;&gt;DigitalOcean&lt;/h3&gt;
-
-&lt;p&gt;之前买了个便宜的VPS并且在上面搭建了我自己写的博客程序，后来VPS里运行MongoDB经常自己挂掉就索性没理了。直到现在VPS已经过期，服务器被强制关掉了。周末在家索性想着把这个博客程序重新搭建起来。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;选择Linode还是云主机（阿里云等等）？阿里云貌似有些贵，而且还有一堆备案的流程。Linode最近推出SSD服务，20刀/月的价格，加量不加价，很是吸引人。但无奈还是花的有些心疼。忽然另外一个VPS服务&lt;a href=&#34;https://www.digitalocean.com/?refcode=e131e2bba197&#34;&gt;DigitalOcean&lt;/a&gt;(链接含refcode喔)被我无意发现。DigitalOcean是一家IaaS服务提供商，其特色就是提供快速的固态硬盘服务器，该公司宣称可在55秒之内搭建好一台云服务器，所有的服务器均拥有1G的网络接口，每月基础套餐为1TB，最低套餐费用仅为5美元/月。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.cnitblog.com/blog/16913/201405/190032003752557.jpg&#34; alt=&#34;DigitalOcean&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;每个月20刀的配置和Linode的20刀的配置几乎一样。但是DigitalOcean提供了最低5美元/月的配置，而且如果使用优惠码注册，还能免费送10美元。相当于免费使用2个月。于是我选择了5美元的配置，Google了一把优惠码，并且非常顺利的找到了能用的。Google搜索：digitalocean coupon。我是在这里找到： &lt;a href=&#34;http://www.retailmenot.com/view/digitalocean.com&#34;&gt;http://www.retailmenot.com/view/digitalocean.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;注册，填入优惠码，选择5$的主机类型，主机位置我选了旧金山（美国西部，据说比其他的稳定），操作系统选择了Ubuntu 14.04 x64。一切都非常顺利，正如他们的广告所说的，55秒内，一台热乎乎的VPS送到了我的手上。&lt;/p&gt;
-
-&lt;p&gt;有兴趣的同学可以用我的推荐链接注册哦，我也能得到一些好处。注册链接：&lt;a href=&#34;https://www.digitalocean.com/?refcode=e131e2bba197&#34;&gt;DigitalOcean&lt;/a&gt;
-用到哪天不想用了，DigitalOcean还提供了生成一个镜像(Image)的功能，然后你取消掉VPS服务器(Droplets)，之后将不收取费用。哪天忽然又想用了再开通它，用之前的镜像一还原，马上就恢复了之前的环境，很是方便。&lt;/p&gt;
-
-&lt;h3 id=&#34;vps安装必要的软件&#34;&gt;VPS安装必要的软件&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;sudo apt-get install git
-sudo apt-get install python-pip
-sudo apt-get install nginx
-sudo apt-get install supervisor
-sudo pip install tornado
-sudo pip install pymongo
-sudo pip install beautifulsoup4
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;（我安装了beautifulsoup是因为我做了个工具把博客园的博客导入过来。）
-mongodb 安装：&lt;a href=&#34;http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/&#34;&gt;http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;博客程序&#34;&gt;博客程序&lt;/h3&gt;
-
-&lt;p&gt;之前我用python+tornado+pymongo写了一套博客程序，只是给我自己使用，所以我放在了私有仓库&lt;a href=&#34;http://bitbucket.org&#34;&gt;bitbucket&lt;/a&gt;上。
-网站程序一般放在/var/www目录里。所以我用git clone把我的代码放到了/var/www/coderzh&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sudo mkdir /var/www
-cd /var/www
-git clone https://xxxxx.xxxx.xxx
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;mongodb&#34;&gt;MongoDB&lt;/h3&gt;
-
-&lt;p&gt;由于我的程序没有使用MongoDB默认的端口27017，所以我需要修改端口的设置。找到MongoDB的配置文件，修改port字段：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;vim /etc/mongodb.conf
-#修改port=27017部分 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;停止和重启mongodb：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sudo service mongodb stop
-sudo service mongodb start
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;运行博客程序&#34;&gt;运行博客程序&lt;/h3&gt;
-
-&lt;p&gt;博客程序运行需要的环境已经基本配置好，这时运行博客程序看是否能正常起来：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sudo python /var/www/coderzh/main.py --port 8001
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;打开浏览器试试能不能访问: &lt;code&gt;http://服务器IP:8001&lt;/code&gt;   OK，太棒了，一起正常。&lt;/p&gt;
-
-&lt;h3 id=&#34;supervisor&#34;&gt;Supervisor&lt;/h3&gt;
-
-&lt;p&gt;停掉刚才的main.py，这时候要上一个好东西。它就是Supervisor，它是一个进程监控守护程序。它负责开机时自动启动你配置好的程序，并且在你的程序莫名其妙挂掉时，Supervisor会自动去重启他们。可以说，它是网站稳定运行的后勤保障啊。&lt;/p&gt;
-
-&lt;p&gt;新建一个Supervisor配置文件，放到/ect/supervisor/conf.d目录下，因为/etc/supervisor/supervisord.conf里配置了自动读取conf.d目录下的文件：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;vim /ect/supervisor/conf.d/coderzh.conf
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;编辑coderzh.conf&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;[program:coderzh]
-command=python /var/www/coderzh/main.py --port=8001
-directory=/var/www/coderzh
-autorestart=true
-redirect_stderr=true
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;重载配置，重启Supervisior：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;supervisorctl reload 
-supervisorctl start all
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;再次访问: &lt;code&gt;http://服务器IP:8001&lt;/code&gt;   试试，嗯，一起正常。Supervisor工作了。&lt;/p&gt;
-
-&lt;h3 id=&#34;nginx&#34;&gt;Nginx&lt;/h3&gt;
-
-&lt;p&gt;接下来上Nginx，它是一个HTTP和反向代理服务器。最终网站的访问经过域名解析到服务器后，都要通过Nginx将访问请求转到main.py中处理。理解Nginx的配置文件很重要，好吧，说实话，我当初摸Nginx，Apache之类的东西时都是一头雾水的。Nginx的主要配置文件路径在：/etc/nginx/nginx.conf&lt;/p&gt;
-
-&lt;p&gt;为了让Nginx支持多域名，多Web服务。我修改/etc/nginx/nginx.conf 内容如下：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;user www-data;
-worker_processes 4;
-pid /run/nginx.pid;
-
-events {
-    worker_connections 1024;
-    use epoll;
-}
-
-http {
-    types_hash_max_size 2048;
-    server_names_hash_bucket_size 64;
-
-    include /etc/nginx/mime.types;
-    default_type application/octet-stream;
- 
-    access_log /var/log/nginx/access.log;
- 
-    keepalive_timeout 65;
-    proxy_read_timeout 200;
-    sendfile on;
-    tcp_nopush on;
-    tcp_nodelay on;
-    gzip on;
-    gzip_min_length 1000;
-    gzip_proxied any;
-    gzip_types text/plain application/x-javascript text/css application/xml; 
-
-    include /etc/nginx/conf.d/*;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;注意最后一行：include /etc/nginx/conf.d/*，所以在conf.d目录里，可以为每个网站都配置一个.conf文件。我为博客程序生产的配置：vim /etc/nginx/conf.d/coderzh.conf&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;upstream coderzh {
-    server 127.0.0.1:8001;
-}
-
-server {
-    listen 80;
-    server_name coderzh.com www.coderzh.com;
-
-    location = /favicon.ico {
-        rewrite (.*) /static/favicon.ico;
-    }
-    location = /robots.txt {
-        rewrite (.*) /static/robots.txt;
-    }
-
-    location / {
-        proxy_pass_header Server;
-        proxy_set_header Host $http_host;
-        proxy_redirect off;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Scheme $scheme;
-        proxy_pass http://coderzh;
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;重新启动nginx&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;service nginx restart
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;这时已经可以用80端口访问了。&lt;/p&gt;
-
-&lt;h3 id=&#34;dnspod&#34;&gt;DnsPod&lt;/h3&gt;
-
-&lt;p&gt;接下来就是通过DnsPod将域名解析到这台VPS服务器。应该不是什么问题，有问题可以查看DnsPod帮助。&lt;/p&gt;
-
-&lt;h3 id=&#34;部署完成&#34;&gt;部署完成&lt;/h3&gt;
-
-&lt;p&gt;执行导入工具，将博客园的博客导入进来。访问：&lt;a href=&#34;http://www.coderzh.com&#34;&gt;http://www.coderzh.com&lt;/a&gt;。HOHO，大功告成。&lt;/p&gt;</description>
         </item>
         
     </channel>
