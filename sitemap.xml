@@ -1603,12 +1603,6 @@
     </url>
     
     <url>
-        <loc>https://fiser321.github.io/feed.xml</loc>
-        <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-        <priority>0</priority>
-    </url>
-    
-    <url>
         <loc>https://fiser321.github.io/post/</loc>
         <lastmod>2017-01-01T00:00:00+08:00</lastmod>
         <priority>0</priority>
@@ -1635,6 +1629,12 @@
     <url>
         <loc>https://fiser321.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
         <lastmod>2016-07-11T07:35:59+08:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://fiser321.github.io/feed.xml</loc>
+        <lastmod>2017-01-01T00:00:00+08:00</lastmod>
         <priority>0</priority>
     </url>
     

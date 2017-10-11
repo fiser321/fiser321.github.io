@@ -12,7 +12,7 @@
         }
     }
   </script>
-  <title>Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL) - CoderZh Blog</title>
+  <title>Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL) - 爱睡懒觉的程序员</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -22,11 +22,11 @@
 <meta name="publisher" content="coderzh">
 <meta name="generator" content="http://gohugo.io/"/>
 
-<meta itemprop="name" content="Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL) - CoderZh Blog">
+<meta itemprop="name" content="Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL) - 爱睡懒觉的程序员">
 <meta itemprop="description" content="1. 首先VC&#43;&#43;的DLL的导出函数定义成标准C的导出函数： ![](http://images.cnblogs.com/OutliningIndicators/ContractedBlock.gif)#ifdef&nbsp;LRDLLTEST_EXPORTS#define&nbsp;LRDLLTEST_API&nbsp;__declspec(dllexport)#else#define&nbsp;LRDLLTEST_API&nbsp;__declspec(dllimport)#endifextern&nbsp;&#34;C&#34;&nbsp;LRDLLTEST_API&nbsp;int&nbsp;Sum(int&nbsp;a&nbsp;,&nbsp;int&nbsp;b); extern&nbsp;&#34;C&#34;&nbsp;LRDLLTEST_API&nbsp;void&nbsp;GetString(char*&nbsp;pChar); //a&nbsp;&#43;&nbsp;b LRDLLTEST_API&nbsp;int&nbsp;Sum(int&nbsp;a&nbsp;,&nbsp;int&nbsp;b) { &nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;a&nbsp;&#43;&nbsp;b; } //Get&nbsp;a&nbsp;string LRDLLTEST_API&nbsp;void&nbsp;GetString(char*&nbsp;pChar) { &nbsp;&nbsp;&nbsp;&nbsp;strcpy(pChar,&nbsp;&#34;Hello&nbsp;DLL&#34;); } 2. Python中调用如下： from&nbsp;ctypes&nbsp;import&nbsp;*fileName=&#34;LRDllTest.dll&#34;func=cdll.LoadLibrary(fileName) str&nbsp;=&nbsp;create_string_buffer(20) n&nbsp;=&nbsp;func.Sum(2,&nbsp;3) func.GetString(str) print&nbsp;n print&nbsp;str.raw 关于C语言中的一些参数">
 <meta itemprop="image" content="https://fiser321.github.io/public/coderzh.jpg">
 
-<meta property="og:title" content="Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL) - CoderZh Blog" />
+<meta property="og:title" content="Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL) - 爱睡懒觉的程序员" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://fiser321.github.io/2008/07/23/1249919/" />
 <meta property="og:image" content="https://fiser321.github.io/public/coderzh.jpg" />
@@ -34,7 +34,7 @@
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@coderzh">
-<meta name="twitter:title" content="Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL) - CoderZh Blog">
+<meta name="twitter:title" content="Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL) - 爱睡懒觉的程序员">
 <meta name="twitter:description" content="1. 首先VC&#43;&#43;的DLL的导出函数定义成标准C的导出函数： ![](http://images.cnblogs.com/OutliningIndicators/ContractedBlock.gif)#ifdef&nbsp;LRDLLTEST_EXPORTS#define&nbsp;LRDLLTEST_API&nbsp;__declspec(dllexport)#else#define&nbsp;LRDLLTEST_API&nbsp;__declspec(dllimport)#endifextern&nbsp;&#34;C&#34;&nbsp;LRDLLTEST_API&nbsp;int&nbsp;Sum(int&nbsp;a&nbsp;,&nbsp;int&nbsp;b); extern&nbsp;&#34;C&#34;&nbsp;LRDLLTEST_API&nbsp;void&nbsp;GetString(char*&nbsp;pChar); //a&nbsp;&#43;&nbsp;b LRDLLTEST_API&nbsp;int&nbsp;Sum(int&nbsp;a&nbsp;,&nbsp;int&nbsp;b) { &nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;a&nbsp;&#43;&nbsp;b; } //Get&nbsp;a&nbsp;string LRDLLTEST_API&nbsp;void&nbsp;GetString(char*&nbsp;pChar) { &nbsp;&nbsp;&nbsp;&nbsp;strcpy(pChar,&nbsp;&#34;Hello&nbsp;DLL&#34;); } 2. Python中调用如下： from&nbsp;ctypes&nbsp;import&nbsp;*fileName=&#34;LRDllTest.dll&#34;func=cdll.LoadLibrary(fileName) str&nbsp;=&nbsp;create_string_buffer(20) n&nbsp;=&nbsp;func.Sum(2,&nbsp;3) func.GetString(str) print&nbsp;n print&nbsp;str.raw 关于C语言中的一些参数">
 <meta name="twitter:creator" content="@coderzh">
 <meta name="twitter:image" content="https://fiser321.github.io/public/coderzh.jpg">
@@ -104,7 +104,7 @@
           <a rel="nofollow" href="" type="application/rss+xml" target="_blank">订阅</a>
         </li>
         <li class="menu-item menu-item-type-post_type menu-item-text">
-        一个程序员的思考与总结
+        运维工程师一点感慨
         </li>
       </ul>
     </div>
@@ -138,10 +138,10 @@
           <h1 class="site-title">
             <a rel="nofollow" href="https://fiser321.github.io/" rel="home">
               <img style="border-radius: 50%;width:72px;height:72px;margin:0 auto;" alt="coderzh" src="https://fiser321.github.io/public/coderzh.jpg"></img>
-              CoderZh Blog
+              爱睡懒觉的程序员
             </a>
           </h1>
-          <p class="site-description"> 如果你没有感觉到时间不够用时，你多半正在虚度光阴。 </p>
+          <p class="site-description"> 除了技术，你还会什么 </p>
         </div>
 
       </div>
@@ -178,7 +178,7 @@
                   <h1 class="post-title">Python天天美味(29) - 调用VC&#43;&#43;的动态链接库(DLL)</h1>
 
                   <p class="post-byline">
-                    by  · 2008年07月23日 · 324 Words ·
+                    by  · 23077年70月77日 · 324 Words ·
                     ~1min reading time |
                     <a href="https://github.com/coderzh/coderzh-hugo-blog/blob/master/content/post/cnblogs/2008-07-23-1249919.md"
                        target="_blank">Improve on <i class="fa fa-github"></i></a>
