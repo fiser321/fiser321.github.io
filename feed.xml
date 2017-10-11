@@ -6,7 +6,30 @@
         <language>zh-CN</language>
         <author>CoderZh</author>
         <rights>Copyright (c) 2015, CoderZh; all rights reserved.</rights>
-        <updated>Sun, 01 Oct 2017 08:55:31 &#43;0600</updated>
+        <updated>Sat, 07 Oct 2017 00:00:00 UTC</updated>
+        
+        <item>
+            <title>自豪的使用上了WordPress</title>
+            <link>https://fiser321.github.io/2017/10/07/wordpress/</link>
+            <pubDate>Sat, 07 Oct 2017 00:00:00 UTC</pubDate>
+            <author>CoderZh</author>
+            <guid>https://fiser321.github.io/2017/10/07/wordpress/</guid>
+            <description>&lt;p&gt;自从购买了DigitalOcean的VPS，就一直在上面折腾着。首当其冲的，是把我的博客转移到VPS中来，实现自己的独立博客。开始打算的是一切自己DIY，并且我之前也写过一套博客程序，用Python+Tornado+mongodb实现的。虽然很久没有维护，但还是可用的状态。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;最终，我还是放弃了自己写的NancyBlog(&lt;a href=&#34;http://code.google.com/p/nancyblog/)，而是选择了大名鼎鼎的WordPress，原因如下：&#34;&gt;http://code.google.com/p/nancyblog/)，而是选择了大名鼎鼎的WordPress，原因如下：&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;我只是博客的使用者，应该把博客程序的开发交给更加有经验和经历的人。&lt;/li&gt;
+&lt;li&gt;我自己的博客，要换个皮肤比较自己DIY很久。而WordPress有大量的皮肤，随意你切换。&lt;/li&gt;
+&lt;li&gt;WordPress有大量的插件支持，比如使用MarkDown编写博文。能完全满足我写博客的需求。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;开始我是打算把博客园里的博客导入过来的，毕竟我在博客园写博客已经有7年的时间了，积累了不少的文章。网上搜寻了导入的方法，找到一篇文章：将博客园(cnblogs.com)数据导入到wordpress(&lt;a href=&#34;http://levi.cg.am/archives/163)。我安装插件后导入毫无反应，应该是这个插件太久没有更新了，已经不能解析最新的博客园备份文章了。无奈只好先放一放，之后有时间自己实现个导入功能。当然，新的博客，一切从头开始，也未必不是一件好事。&#34;&gt;http://levi.cg.am/archives/163)。我安装插件后导入毫无反应，应该是这个插件太久没有更新了，已经不能解析最新的博客园备份文章了。无奈只好先放一放，之后有时间自己实现个导入功能。当然，新的博客，一切从头开始，也未必不是一件好事。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;创业艰难，坚持不易，思考和总结不能停，博文还是得继续。给自己加油吧！&lt;/p&gt;</description>
+        </item>
         
         <item>
             <title>关于我</title>
@@ -115,34 +138,7 @@
 &lt;h4 id=&#34;展望&#34;&gt;展望&lt;/h4&gt;
 
 &lt;p&gt;好的习惯继续发扬，不足要改掉，健身的重要性要提高一个 Level。&lt;/p&gt;
-
-&lt;h4 id=&#34;最后&#34;&gt;最后&lt;/h4&gt;
-
-&lt;p&gt;感谢你们！如此低的更新频率下还没有退订，感谢！Happy 2017!&lt;/p&gt;
 </description>
-        </item>
-        
-        <item>
-            <title>自豪的使用上了WordPress</title>
-            <link>https://fiser321.github.io/2014/09/09/wordpress/</link>
-            <pubDate>Tue, 09 Sep 2014 00:00:00 UTC</pubDate>
-            <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2014/09/09/wordpress/</guid>
-            <description>&lt;p&gt;自从购买了DigitalOcean的VPS，就一直在上面折腾着。首当其冲的，是把我的博客转移到VPS中来，实现自己的独立博客。开始打算的是一切自己DIY，并且我之前也写过一套博客程序，用Python+Tornado+mongodb实现的。虽然很久没有维护，但还是可用的状态。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;最终，我还是放弃了自己写的NancyBlog(&lt;a href=&#34;http://code.google.com/p/nancyblog/)，而是选择了大名鼎鼎的WordPress，原因如下：&#34;&gt;http://code.google.com/p/nancyblog/)，而是选择了大名鼎鼎的WordPress，原因如下：&lt;/a&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;我只是博客的使用者，应该把博客程序的开发交给更加有经验和经历的人。&lt;/li&gt;
-&lt;li&gt;我自己的博客，要换个皮肤比较自己DIY很久。而WordPress有大量的皮肤，随意你切换。&lt;/li&gt;
-&lt;li&gt;WordPress有大量的插件支持，比如使用MarkDown编写博文。能完全满足我写博客的需求。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;开始我是打算把博客园里的博客导入过来的，毕竟我在博客园写博客已经有7年的时间了，积累了不少的文章。网上搜寻了导入的方法，找到一篇文章：将博客园(cnblogs.com)数据导入到wordpress(&lt;a href=&#34;http://levi.cg.am/archives/163)。我安装插件后导入毫无反应，应该是这个插件太久没有更新了，已经不能解析最新的博客园备份文章了。无奈只好先放一放，之后有时间自己实现个导入功能。当然，新的博客，一切从头开始，也未必不是一件好事。&#34;&gt;http://levi.cg.am/archives/163)。我安装插件后导入毫无反应，应该是这个插件太久没有更新了，已经不能解析最新的博客园备份文章了。无奈只好先放一放，之后有时间自己实现个导入功能。当然，新的博客，一切从头开始，也未必不是一件好事。&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;创业艰难，坚持不易，思考和总结不能停，博文还是得继续。给自己加油吧！&lt;/p&gt;</description>
         </item>
         
     </channel>
