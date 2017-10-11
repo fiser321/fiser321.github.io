@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://fiser321.github.io/2017/10/07/wordpress/</loc>
-        <lastmod>2017-10-07T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://fiser321.github.io/about/</loc>
         <lastmod>2017-10-01T08:55:31+06:00</lastmod>
     </url>
@@ -17,6 +12,11 @@
     </url>
     
     <url>
+        <loc>https://fiser321.github.io/2014/09/07/startup/</loc>
+        <lastmod>2014-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://fiser321.github.io/categories/</loc>
         <lastmod>0001-01-01T00:00:00+00:00</lastmod>
         <priority>0</priority>
@@ -24,7 +24,7 @@
     
     <url>
         <loc>https://fiser321.github.io/post/</loc>
-        <lastmod>2017-10-07T00:00:00+00:00</lastmod>
+        <lastmod>2017-01-01T00:00:00+08:00</lastmod>
         <priority>0</priority>
     </url>
     
@@ -42,13 +42,13 @@
     
     <url>
         <loc>https://fiser321.github.io/feed.xml</loc>
-        <lastmod>2017-10-07T00:00:00+00:00</lastmod>
+        <lastmod>2017-10-01T08:55:31+06:00</lastmod>
         <priority>0</priority>
     </url>
     
     <url>
-        <loc>https://fiser321.github.io/categories/%E8%BF%90%E7%BB%B4%E6%9E%B6%E6%9E%84/</loc>
-        <lastmod>2017-10-07T00:00:00+00:00</lastmod>
+        <loc>https://fiser321.github.io/categories/%E7%94%9F%E6%B4%BB%E7%AC%94%E8%AE%B0/</loc>
+        <lastmod>2014-09-07T00:00:00+00:00</lastmod>
         <priority>0</priority>
     </url>
     
