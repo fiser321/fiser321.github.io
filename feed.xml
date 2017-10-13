@@ -6,7 +6,27 @@
         <language>zh-CN</language>
         <author>CoderZh</author>
         <rights>Copyright (c) 2015, CoderZh; all rights reserved.</rights>
-        <updated>Fri, 13 Oct 2017 00:00:00 UTC</updated>
+        <updated>Tue, 17 Oct 2017 00:00:00 UTC</updated>
+        
+        <item>
+            <title>python 环境</title>
+            <link>https://fiser321.github.io/2017/10/17/env-python/</link>
+            <pubDate>Tue, 17 Oct 2017 00:00:00 UTC</pubDate>
+            <author>CoderZh</author>
+            <guid>https://fiser321.github.io/2017/10/17/env-python/</guid>
+            <description>
+
+&lt;h4 id=&#34;python-环境配置&#34;&gt;python 环境配置&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;安装依赖包&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;yum install -y python3  virtualenv&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;virtualenv -p /usr/bin/python3 env&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;使用豆瓣源&lt;br /&gt;
+pip install package -i  &lt;a href=&#34;https://pypi.douban.com/simple/&#34;&gt;https://pypi.douban.com/simple/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
         
         <item>
             <title>Linux 常见命令总结</title>

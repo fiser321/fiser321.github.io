@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://fiser321.github.io/2017/10/17/env-python/</loc>
+        <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://fiser321.github.io/2017/10/17/base-linux/</loc>
         <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     </url>
@@ -24,7 +29,13 @@
     
     <url>
         <loc>https://fiser321.github.io/post/</loc>
-        <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+        <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://fiser321.github.io/categories/python/go%E5%9F%BA%E7%A1%80/</loc>
+        <lastmod>2017-10-17T00:00:00+00:00</lastmod>
         <priority>0</priority>
     </url>
     
@@ -36,7 +47,7 @@
     
     <url>
         <loc>https://fiser321.github.io/feed.xml</loc>
-        <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+        <lastmod>2017-10-17T00:00:00+00:00</lastmod>
         <priority>0</priority>
     </url>
     
