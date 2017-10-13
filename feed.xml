@@ -53,7 +53,9 @@ yum makecache
 * 更新
 yum update package
 * 删除
-yum remove package 或者 先查找rpm -qa | grep package  然后删除rpm -e package&lt;/p&gt;
+yum remove package 或者 先查找rpm -qa | grep package  然后删除rpm -e package&lt;br /&gt;
+* 运行yum 提示 another app is currently holding the yum lock;waiting for it to exit 卡主&lt;br /&gt;
+rm -f /var/run/yum.pid&lt;/p&gt;
 
 &lt;h4 id=&#34;更改主机密码&#34;&gt;更改主机密码&lt;/h4&gt;
 

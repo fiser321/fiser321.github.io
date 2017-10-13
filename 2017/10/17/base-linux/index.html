@@ -182,7 +182,7 @@
                   <h1 class="post-title">Linux 常见命令总结</h1>
 
                   <p class="post-byline">
-                    by  · 2017年10月13日 · 208 Words ·
+                    by  · 2017年10月13日 · 233 Words ·
                     ~1min reading time |
                     <a href="https://github.com/coderzh/coderzh-hugo-blog/blob/master/content/post/2017/2017-10-13.md"
                        target="_blank">Improve on <i class="fa fa-github"></i></a>
@@ -212,7 +212,9 @@ yum makecache
 * 更新
 yum update package
 * 删除
-yum remove package 或者 先查找rpm -qa | grep package  然后删除rpm -e package</p>
+yum remove package 或者 先查找rpm -qa | grep package  然后删除rpm -e package<br />
+* 运行yum 提示 another app is currently holding the yum lock;waiting for it to exit 卡主<br />
+rm -f /var/run/yum.pid</p>
 
 <h4 id="更改主机密码">更改主机密码</h4>
 
