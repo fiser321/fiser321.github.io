@@ -49,9 +49,9 @@ yum install -y package&lt;br /&gt;
 yum clean all&lt;br /&gt;
 yum clean metadata&lt;br /&gt;
 yum clean dbcache&lt;br /&gt;
-yum makecache
+yum makecache&lt;br /&gt;
 * 更新
-yum update package
+yum update package&lt;br /&gt;
 * 删除
 yum remove package 或者 先查找rpm -qa | grep package  然后删除rpm -e package&lt;br /&gt;
 * 运行yum 提示 another app is currently holding the yum lock;waiting for it to exit 卡主&lt;br /&gt;
