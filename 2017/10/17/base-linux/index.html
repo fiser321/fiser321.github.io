@@ -182,7 +182,7 @@
                   <h1 class="post-title">Linux 常见命令总结</h1>
 
                   <p class="post-byline">
-                    by  · 2017年10月13日 · 243 Words ·
+                    by  · 2017年10月13日 · 233 Words ·
                     ~1min reading time |
                     <a href="https://github.com/coderzh/coderzh-hugo-blog/blob/master/content/post/2017/2017-10-13.md"
                        target="_blank">Improve on <i class="fa fa-github"></i></a>
@@ -235,30 +235,34 @@ gpgkey=<a href="http://mirrors.cloud.aliyuncs.com/centos/RPM-GPG-KEY-CentOS-7">h
 yum install -y package</p></li>
 </ul>
 
-<p>*重建yum源
- yum clean all
- yum clean metadata
- yum clean dbcache
- yum makecache
+<p>*重建yum源<br />
+yum clean all<br />
+yum clean metadata<br />
+yum clean dbcache<br />
+yum makecache
 * 更新
 yum update package
 * 删除
 yum remove package 或者 先查找rpm -qa | grep package  然后删除rpm -e package</p>
 
-<p>####更改主机密码
-passwd $username 或者 echo $passwd | passwd &ndash;stdin $username
+<h4 id="更改主机密码">更改主机密码</h4>
+
+<p>passwd $username 或者 echo $passwd | passwd &ndash;stdin $username<br />
 echo $username:$passwd |chpasswd</p>
 
-<p>####更改主机hostname
-* 临时
-hostname $name
-* 永久
-1.修改 /etc/sysconfig/network
-NETWORKING=yes
-HOSTNAME=$name
-2.修改 /etc/hosts
-第一行 127.0.0.1  localhost localhost.localdomain localhost4 localhost4.localdomain4中localhost.localdomain 修改为 $name
-3.reboot 重启机器</p>
+<h4 id="更改主机hostname">更改主机hostname</h4>
+
+<ul>
+<li>临时
+hostname $name</li>
+<li>永久
+1.修改 /etc/sysconfig/network<br />
+NETWORKING=yes<br />
+HOSTNAME=$name<br />
+2.修改 /etc/hosts<br />
+第一行 127.0.0.1  localhost localhost.localdomain localhost4 localhost4.localdomain4中localhost.localdomain 修改为 $name<br />
+3.reboot 重启机器</li>
+</ul>
 
                       
                     </div>

@@ -56,30 +56,34 @@ gpgkey=&lt;a href=&#34;http://mirrors.cloud.aliyuncs.com/centos/RPM-GPG-KEY-Cent
 yum install -y package&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;*重建yum源
- yum clean all
- yum clean metadata
- yum clean dbcache
- yum makecache
+&lt;p&gt;*重建yum源&lt;br /&gt;
+yum clean all&lt;br /&gt;
+yum clean metadata&lt;br /&gt;
+yum clean dbcache&lt;br /&gt;
+yum makecache
 * 更新
 yum update package
 * 删除
 yum remove package 或者 先查找rpm -qa | grep package  然后删除rpm -e package&lt;/p&gt;
 
-&lt;p&gt;####更改主机密码
-passwd $username 或者 echo $passwd | passwd &amp;ndash;stdin $username
+&lt;h4 id=&#34;更改主机密码&#34;&gt;更改主机密码&lt;/h4&gt;
+
+&lt;p&gt;passwd $username 或者 echo $passwd | passwd &amp;ndash;stdin $username&lt;br /&gt;
 echo $username:$passwd |chpasswd&lt;/p&gt;
 
-&lt;p&gt;####更改主机hostname
-* 临时
-hostname $name
-* 永久
-1.修改 /etc/sysconfig/network
-NETWORKING=yes
-HOSTNAME=$name
-2.修改 /etc/hosts
-第一行 127.0.0.1  localhost localhost.localdomain localhost4 localhost4.localdomain4中localhost.localdomain 修改为 $name
-3.reboot 重启机器&lt;/p&gt;
+&lt;h4 id=&#34;更改主机hostname&#34;&gt;更改主机hostname&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;临时
+hostname $name&lt;/li&gt;
+&lt;li&gt;永久
+1.修改 /etc/sysconfig/network&lt;br /&gt;
+NETWORKING=yes&lt;br /&gt;
+HOSTNAME=$name&lt;br /&gt;
+2.修改 /etc/hosts&lt;br /&gt;
+第一行 127.0.0.1  localhost localhost.localdomain localhost4 localhost4.localdomain4中localhost.localdomain 修改为 $name&lt;br /&gt;
+3.reboot 重启机器&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         
