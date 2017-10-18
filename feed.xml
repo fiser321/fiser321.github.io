@@ -6,7 +6,18 @@
         <language>zh-CN</language>
         <author>CoderZh</author>
         <rights>Copyright (c) 2015, CoderZh; all rights reserved.</rights>
-        <updated>Tue, 17 Oct 2017 00:00:00 UTC</updated>
+        <updated>Wed, 18 Oct 2017 00:00:00 UTC</updated>
+        
+        <item>
+            <title>python 处理生活</title>
+            <link>https://fiser321.github.io/2017/10/18/life/</link>
+            <pubDate>Wed, 18 Oct 2017 00:00:00 UTC</pubDate>
+            <author>CoderZh</author>
+            <guid>https://fiser321.github.io/2017/10/18/life/</guid>
+            <description>&lt;p&gt;天气查询  和风天气 &lt;a href=&#34;https://www.heweather.com/&#34;&gt;https://www.heweather.com/&lt;/a&gt;&lt;br /&gt;
+话费查询  聚合数据 &lt;a href=&#34;https://www.juhe.cn/&#34;&gt;https://www.juhe.cn/&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
         
         <item>
             <title>python 环境</title>
