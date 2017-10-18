@@ -109,6 +109,26 @@ HOSTNAME=$name&lt;br /&gt;&lt;/li&gt;
 第一行 127.0.0.1  localhost localhost.localdomain localhost4 localhost4.localdomain4中localhost.localdomain 修改为 $name&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;reboot 重启机器&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;####jpegoptim 压缩图片命令####&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;yum install -y jpegoptim&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;jpegoptim &amp;ndash;strip-all &amp;ndash;all-progressive -f &amp;ndash;max=60 liucheng-2.jpg (max是压缩大小的百分比)&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;####convert图片转化工具####&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;图片格式转化&lt;br /&gt;
+convert  xxx.jpg  xxx.png&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;图片大小改变&lt;br /&gt;
+convert -resize 1024x768  xxx.jpg   xxx1.jpg&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;图片旋转&lt;br /&gt;
+convert -rotate 270 xxx.jpg xxx1.jpg      将图像顺时针旋转270度&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;图片添加文字&lt;br /&gt;
+convert -fill black -pointsize 60 -font helvetica -draw &amp;lsquo;text 10,80 &amp;ldquo;Hello, World!&amp;rdquo; ‘  xxx.jpg  xxx1.jpg (在图像的10,80 位置采用60磅的全黑Helvetica字体写上 Hello, World!)&lt;/li&gt;
+&lt;/ol&gt;
 </description>
         </item>
         

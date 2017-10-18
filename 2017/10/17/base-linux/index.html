@@ -182,7 +182,7 @@
                   <h1 class="post-title">Linux 常见命令总结</h1>
 
                   <p class="post-byline">
-                    by  · 2017年10月13日 · 233 Words ·
+                    by  · 2017年10月13日 · 386 Words ·
                     ~1min reading time |
                     <a href="https://github.com/coderzh/coderzh-hugo-blog/blob/master/content/post/2017/2017-10-13.md"
                        target="_blank">Improve on <i class="fa fa-github"></i></a>
@@ -234,6 +234,26 @@ HOSTNAME=$name<br /></li>
 第一行 127.0.0.1  localhost localhost.localdomain localhost4 localhost4.localdomain4中localhost.localdomain 修改为 $name<br /></li>
 <li>reboot 重启机器</li>
 </ul>
+
+<p>####jpegoptim 压缩图片命令####</p>
+
+<ol>
+<li>yum install -y jpegoptim<br /></li>
+<li>jpegoptim &ndash;strip-all &ndash;all-progressive -f &ndash;max=60 liucheng-2.jpg (max是压缩大小的百分比)<br /></li>
+</ol>
+
+<p>####convert图片转化工具####</p>
+
+<ol>
+<li>图片格式转化<br />
+convert  xxx.jpg  xxx.png<br /></li>
+<li>图片大小改变<br />
+convert -resize 1024x768  xxx.jpg   xxx1.jpg<br /></li>
+<li>图片旋转<br />
+convert -rotate 270 xxx.jpg xxx1.jpg      将图像顺时针旋转270度<br /></li>
+<li>图片添加文字<br />
+convert -fill black -pointsize 60 -font helvetica -draw &lsquo;text 10,80 &ldquo;Hello, World!&rdquo; ‘  xxx.jpg  xxx1.jpg (在图像的10,80 位置采用60磅的全黑Helvetica字体写上 Hello, World!)</li>
+</ol>
 
                       
                     </div>
