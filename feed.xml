@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>爱睡懒觉的程序员 on 爱睡懒觉的程序员</title>
-        <link>https://fiser321.github.io/feed.xml</link>
+        <link>http://fiser321.github.io/feed.xml</link>
         <language>zh-CN</language>
         <author>CoderZh</author>
         <rights>Copyright (c) 2015, CoderZh; all rights reserved.</rights>
@@ -10,10 +10,10 @@
         
         <item>
             <title>第三方服务</title>
-            <link>https://fiser321.github.io/2017/10/18/life/</link>
+            <link>http://fiser321.github.io/2017/10/18/life/</link>
             <pubDate>Wed, 18 Oct 2017 00:00:00 UTC</pubDate>
             <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2017/10/18/life/</guid>
+            <guid>http://fiser321.github.io/2017/10/18/life/</guid>
             <description>&lt;p&gt;天气查询  和风天气 &lt;a href=&#34;https://www.heweather.com/&#34;&gt;https://www.heweather.com/&lt;/a&gt;&lt;br /&gt;
 话费查询  聚合数据 &lt;a href=&#34;https://www.juhe.cn/&#34;&gt;https://www.juhe.cn/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -21,10 +21,10 @@
         
         <item>
             <title>python 环境</title>
-            <link>https://fiser321.github.io/2017/10/17/env-python/</link>
+            <link>http://fiser321.github.io/2017/10/17/env-python/</link>
             <pubDate>Tue, 17 Oct 2017 00:00:00 UTC</pubDate>
             <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2017/10/17/env-python/</guid>
+            <guid>http://fiser321.github.io/2017/10/17/env-python/</guid>
             <description>
 
 &lt;h4 id=&#34;python-环境配置&#34;&gt;python 环境配置&lt;/h4&gt;
@@ -41,10 +41,10 @@ pip install package -i  &lt;a href=&#34;https://pypi.douban.com/simple/&#34;&gt;
         
         <item>
             <title> 入侵linux</title>
-            <link>https://fiser321.github.io/2017/10/17/bug-linux/</link>
+            <link>http://fiser321.github.io/2017/10/17/bug-linux/</link>
             <pubDate>Fri, 13 Oct 2017 00:00:00 UTC</pubDate>
             <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2017/10/17/bug-linux/</guid>
+            <guid>http://fiser321.github.io/2017/10/17/bug-linux/</guid>
             <description>
 
 &lt;h3 id=&#34;利用暴露在公网redis端口&#34;&gt;利用暴露在公网redis端口&lt;/h3&gt;
@@ -64,10 +64,10 @@ sudo sudo -i&lt;/p&gt;
         
         <item>
             <title>Linux 常见命令总结</title>
-            <link>https://fiser321.github.io/2017/10/17/base-linux/</link>
+            <link>http://fiser321.github.io/2017/10/17/base-linux/</link>
             <pubDate>Fri, 13 Oct 2017 00:00:00 UTC</pubDate>
             <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2017/10/17/base-linux/</guid>
+            <guid>http://fiser321.github.io/2017/10/17/base-linux/</guid>
             <description>
 
 &lt;h4 id=&#34;yum命令&#34;&gt;yum命令&lt;/h4&gt;
@@ -134,10 +134,10 @@ convert -fill black -pointsize 60 -font helvetica -draw &amp;lsquo;text 10,80 &a
         
         <item>
             <title>关于我</title>
-            <link>https://fiser321.github.io/about/</link>
+            <link>http://fiser321.github.io/about/</link>
             <pubDate>Thu, 01 Jan 2015 08:55:31 CST</pubDate>
             <author>CoderZh</author>
-            <guid>https://fiser321.github.io/about/</guid>
+            <guid>http://fiser321.github.io/about/</guid>
             <description>
 
 &lt;p class=&#34;message&#34;&gt;
@@ -186,10 +186,10 @@ convert -fill black -pointsize 60 -font helvetica -draw &amp;lsquo;text 10,80 &a
         
         <item>
             <title>创业感悟</title>
-            <link>https://fiser321.github.io/2014/09/07/startup/</link>
+            <link>http://fiser321.github.io/2014/09/07/startup/</link>
             <pubDate>Sun, 07 Sep 2014 00:00:00 UTC</pubDate>
             <author>CoderZh</author>
-            <guid>https://fiser321.github.io/2014/09/07/startup/</guid>
+            <guid>http://fiser321.github.io/2014/09/07/startup/</guid>
             <description>&lt;p&gt;时光飞逝，转眼间距离上一篇博客已经快三年时间。这三年里，人们逐渐从博客转移到了微博，看的人少了，写的人也少了。以前，写博客是一种潮流，现在，写博客已经是一种坚持了。连Google都放弃了RSS，我不知道那些曾经订阅过我博客的朋友，你们还在坚持用RSS看文章吗？我写的这篇文章，你们在用Google Reader的替代品看到我的文章吗？如果有看到，并且我的文章对你有帮助，请留言告诉我。这会是我更新博客很好的动力。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
